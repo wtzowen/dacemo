@@ -52,49 +52,13 @@ Yu Yang - u6412985 | Frontend/Presentation Logic Programmer
 Wenrui Li - u6361099 | Frontend/D3.js Specialist
 Taizhou Wang - u6273306 | Frontend/JS build & lifecycle
 
-## GENERAL TOOLS
-
-Communication: 
-* [Slack](https://businessabstraction.slack.com/messages/CGMDE8ZCH/)
-  * Day-to-day communication regarding development and issues that may arise.
-  * People outside our team including our stakeholder, shadows, and anyone who is interested in our project can also reach us easily.
-* Email
-  * Meeting invitations, and communications that are especially important.
-* Skype
-  * Members that cannot make it to our weekly meetings can appear digitially. 
-* Meetings
-  * Weekly meetings (Sundays) to communicate with our client and present deliverables and issues. 
-
-Documentation: [Google Drive](https://drive.google.com/open?id=1WjYbFm8Bo-LiOVIUo5V1L1T3OA2NqrcU)
-* We use Google Drive to host our documentation
-
-Management: [Asana](https://app.asana.com/0/inbox/1112380319431612?du=1112380319431612&invite=8a394c166f17d335c2ffbb8a719bc864)
-* Assignment and management of tasks, deadlines, and task specification.
-
-## DEVELOPING TOOLS
-* [IntelliJ](https://www.jetbrains.com/idea/) (IDE)
-* [Jena](https://jena.apache.org/index.html) (Open Source Semantic Web framework)
-* [Maven](https://maven.apache.org) (build management tool)
-* [D3](https://d3js.org) (graph presentation software)
-* [Tomcat](https://tomcat.apache.org) (server)
 
 ## PROJECT ARTEFACTS
 * Group Meeting Notes (https://drive.google.com/drive/folders/1_aV8nk1iTIEDQqXfpiLfJIt98wacqaNN)
 * Tutorial Meeting Notes (https://drive.google.com/drive/folders/1EVf0rtFta_mMU0YTYTKv01-1qXnByU2B)
 * Client Meeting Notes (https://drive.google.com/drive/folders/1itF2R-CSuwl4ndsbM9IxND6fQgra1L-S)
 
-## KEY STAKEHOLDERS
-### Alex Jornalev (Business Abstraction)
-Alex is the principal consultant of Business Abstraction. He is a specialist in Semantic Data, 
-Knowledge and Semantic Data Engineering, combining solid academic background 
-with two decades in Enterprise IT. Highly experienced Architect and Visual Modelling mentor who trained dozens of respected Enterprise Architecture, Information Architecture and Application Architecture professionals.
-
-## CLIENT EXPECTATIONS
-* To deliver at least Iteration Zero.
-* Honesty
-* Communication Transparency
-* Teamwork
-
+## TECHNICAL ARTEFACTS
 
 ## DELIVERING VALUE
 ### For Client
@@ -102,6 +66,8 @@ with two decades in Enterprise IT. Highly experienced Architect and Visual Model
 * Develop user-friendly, presentable Data Centric Modelling graphs. 
 * A domain in which the information gathered by the modeller is traditionally explained to the end user in subsets (or not at all) is now clearly understandable to an untrained user. 
 * With graphs that integrate Business and Technical knowledge, the Business/IT misalignment in traditional enterprise is narrowed. 
+
+## ROLES AND ACTIVITIES
 
 ## DECISION MAKING PROCESS
 Decision making log: (https://drive.google.com/drive/folders/1m4mbyVoh4ibqYACCxjURbvI8BEEMAGKK)
@@ -132,25 +98,4 @@ Week | Goal
 
 Iterations/Timelines are subject to change. 
  
-## CONSTRAINTS
-* Team members are inexperienced with Web application development process
-* Some members are inexperienced with this domain.
-
-## RISKS
-* One of our team members is working remotely until 14th April (Severity: 2). 
-  * Mitigation strategies include clear meeting minutes and documentation, as well frequent (multiple times a week) virtual meetings.
-* Client is a consultant for projects - time between communications can be longer than anticipated (Severity: 2). 
-  * Mitigation strategies are still being researched by the team.
-* The demand is not clearly defined (Severity: 2).
-  * Mitigation strategies include keeping contact with the client.
-* The client's demand may change during development (Severity: 3).
-  * Mitigation strategies could be to apply the agile development methods to reduce the influence of demand changes.
-
-## NONDISCLOSURE AGREEMENTS
-* The project is Open Source and is governed by AGPL3. 
-* An NDA is at this stage not nessecary.
-
-## COSTS
-* The project is open source and the potential costs (such as evaluating StarDog (a propietry knowledge graph software) and eventual hosting on an AWS server) will be covered by the client. 
-
 Signed:
